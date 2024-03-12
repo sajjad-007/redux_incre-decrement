@@ -1,0 +1,35 @@
+*{
+  padding: 0 ;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.home {
+  padding: 50px;
+  text-align: center;
+}
+.home h1 {
+  margin-bottom: 15px;
+}
+.home button {
+  padding: 15px 25px;
+  background-color: blueviolet;
+  border: none;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+.home h3 {
+  padding: 10px 0;
+  font-size: 30px;
+}
+.about {
+  padding: 50px;
+  font-size: 30px;
+  text-align: center;
+}
+.service {
+  padding: 30px;
+  font-size: 30px;
+  text-align: center;
+}
